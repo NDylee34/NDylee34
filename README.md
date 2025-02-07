@@ -47,7 +47,7 @@ Beyond finance, I am also greatly interested in tech and data analysis. I believ
 My main goal in this course is to develop a portfolio that well represents my interests and knowledge in creative ways. I'd also like to further hone my Python skills to be able to apply and utilize in real-life settings.
 
 ## Contact Links:
-- [Link to my LinkedIn Profile](www.linkedin.com/in/yujinlee7)
+- [Link to my LinkedIn Profile](https://www.linkedin.com/in/yujinlee7/)
 - [Link to my Data Science Portfolio](https://github.com/NDylee34/Lee-Python-Portfolio)
-- [Email Address](ylee34@nd.edu)
+- Email Address: ylee34@nd.edu
 
