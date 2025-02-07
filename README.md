@@ -17,7 +17,7 @@ Beyond finance, I am also greatly interested in tech and data analysis. I believ
     - National Honor Society Member
 
 ## Current Projects:
-- [Link to the Data Science Portfolio](https://github.com/NDylee34/Lee-Python-Portfolio)
+- [Link to my Data Science Portfolio](https://github.com/NDylee34/Lee-Python-Portfolio)
 
 ## Technical Skills:
 - **RStudio**: Intermediate Level
@@ -44,4 +44,10 @@ Beyond finance, I am also greatly interested in tech and data analysis. I believ
         - Conveying Visual Data Insights (_Currently Enrolled_)
 
 ## Goals:
+My main goal in this course is to develop a portfolio that well represents my interests and knowledge in creative ways. I'd also like to further hone my Python skills to be able to apply and utilize in real-life settings.
+
+## Contact Links:
+- [Link to my LinkedIn Profile](www.linkedin.com/in/yujinlee7)
+- [Link to my Data Science Portfolio](https://github.com/NDylee34/Lee-Python-Portfolio)
+- [Email Address](ylee34@nd.edu)
 
