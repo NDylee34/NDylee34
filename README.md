@@ -1,7 +1,5 @@
 # Elements of Computing II Portfolio - Judy Lee
 
-![Status Badge](https://github.com/NDylee34/NDylee34/workflows/main.yml/badge.svg?branch=feature-1)
-
 ## About Me:
 My name is Judy Lee and I’m a junior studying business analytics, finance and CDT at the University of Notre Dame. I was born in Seoul, South Korea and was raised in Sao Paulo, Brazil. 
 
