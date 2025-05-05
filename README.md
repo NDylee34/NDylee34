@@ -25,6 +25,9 @@ Beyond finance, I am also greatly interested in tech and data analysis. I believ
         - Data Management
         - Simulation and Optimization
         - Sports Analytics (_Currently Enrolled_)
+- **Tableau**: Intermediate Level
+    - Relevant Courses:
+        - Conveying Visual Data Insights (_Currently Enrolled_)
 - **Python**: Beginner-Intermediate Level
     - Relevant Courses:
         - Foundations of Coding
@@ -37,9 +40,6 @@ Beyond finance, I am also greatly interested in tech and data analysis. I believ
 - **PowerBI**: Beginner Level
     - Relevant Courses:
         - Foundations of Business Analytics
-- **Tableau**: Beginner Level
-    - Relevant Courses:
-        - Conveying Visual Data Insights (_Currently Enrolled_)
 
 ## Goals:
 My main goal in this course is to develop a portfolio that well represents my interests and knowledge in creative ways. I'd also like to further hone my Python skills to be able to apply and utilize in real-life settings.
