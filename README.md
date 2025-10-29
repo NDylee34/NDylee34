@@ -1,5 +1,3 @@
-# Elements of Computing II Portfolio
-
 ## About Me:
 My name is Judy Lee and I’m a junior studying business analytics, finance and CDT at the University of Notre Dame. I was born in Seoul, South Korea and was raised in Sao Paulo, Brazil. 
 
